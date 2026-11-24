@@ -6,6 +6,8 @@ This repository contains the reproducible analysis, datasets, figures and Dash d
 final project. The written report, presentation deck and storytelling video are submitted separately
 on UMMoodle.
 
+**Public repository:** <https://github.com/Yudan-Huang/macao-ggr-visitors-forecast>
+
 ## Start here
 
 1. **`READABILITY_STATEMENT.md`** — reading order, file map, key terms, data provenance, reproducibility checklist, and what the project does / does not claim.
